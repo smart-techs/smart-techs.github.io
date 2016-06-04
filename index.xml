@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大智科技</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://smart-techs.github.io/studio/</link>
     <description>Recent content on 大智科技</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <atom:link href="https://smart-techs.github.io/studio/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
